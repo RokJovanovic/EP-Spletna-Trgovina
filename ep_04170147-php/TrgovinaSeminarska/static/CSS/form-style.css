@@ -1,0 +1,47 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 3, 2020, 2:57:20 PM
+    Author     : ep
+*/
+
+* {
+    text-align: center;
+    font-family: courier new;
+    background-color: #005B9A;
+    color: black;
+}
+
+h2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+form {
+    width: 25%;
+    margin: auto;
+    padding-top: 25px;
+    margin-bottom: 50px;
+    border: 2px solid aquamarine;
+}
+
+input[type=text] {
+    font-size: 14px;
+    border: 2px solid aquamarine;
+    border-radius: 4px;
+}
+
+input[type=password] {
+    font-size: 14px;
+    border: 2px solid aquamarine;
+    border-radius: 4px;
+}
+
+button {
+    font-size: 14px;
+    border: 2px solid aquamarine;
+    border-radius: 4px;
+}
